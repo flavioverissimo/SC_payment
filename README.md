@@ -1,1 +1,1 @@
-# SC_payment
+# Smart Contract - Payment
